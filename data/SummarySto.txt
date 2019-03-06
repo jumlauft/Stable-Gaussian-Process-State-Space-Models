@@ -1,0 +1,14 @@
+Asymptotic Stability?
+                         <strong>SOSsto</strong>
+                         <strong>______</strong>
+
+    <strong>NShape           </strong>    false 
+    <strong>OVERALL(mean,sum)</strong>    false 
+
+Convergence radius
+                         <strong>SOSsto</strong>
+                         <strong>______</strong>
+
+    <strong>NShape           </strong>    402.12
+    <strong>OVERALL(mean,sum)</strong>    402.12
+

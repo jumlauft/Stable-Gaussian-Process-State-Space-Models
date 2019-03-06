@@ -1,0 +1,120 @@
+# of trajectories converged
+                         <strong>Sq</strong>    <strong>SOS</strong>    <strong>WSAQF</strong>
+                         <strong>__</strong>    <strong>___</strong>    <strong>_____</strong>
+
+    <strong>Angle            </strong>     3     3       3  
+    <strong>Bump             </strong>     3     3       3  
+    <strong>CShape           </strong>     3     3       3  
+    <strong>GShape           </strong>     3     3       3  
+    <strong>JShape           </strong>     4     4       4  
+    <strong>JShape_2         </strong>     3     3       3  
+    <strong>Khamesh          </strong>     3     3       3  
+    <strong>Line             </strong>     3     3       3  
+    <strong>Multi_Models_1   </strong>    15    15      15  
+    <strong>Multi_Models_2   </strong>     6     6       6  
+    <strong>Multi_Models_3   </strong>     6     6       6  
+    <strong>Multi_Models_4   </strong>     6     6       6  
+    <strong>NShape           </strong>     3     3       3  
+    <strong>PShape           </strong>     3     3       3  
+    <strong>RShape           </strong>     5     5       5  
+    <strong>Saeghe           </strong>     3     3       3  
+    <strong>Sharpc           </strong>     3     3       3  
+    <strong>Sine             </strong>     3     3       3  
+    <strong>Soft_Sine        </strong>     3     3       3  
+    <strong>Spoon            </strong>     3     3       3  
+    <strong>Sshape           </strong>     3     3       3  
+    <strong>Trapezoid        </strong>     3     3       3  
+    <strong>WShape           </strong>     3     3       3  
+    <strong>Zshape           </strong>     3     3       3  
+    <strong>OVERALL(mean,sum)</strong>    96    96      96  
+
+Area Error
+                           <strong>Sq</strong>       <strong>SOS</strong>      <strong>WSAQF</strong> 
+                         <strong>______</strong>    <strong>______</strong>    <strong>______</strong>
+
+    <strong>Angle            </strong>    1151.1    1151.1    1151.1
+    <strong>Bump             </strong>    1344.9    1344.9    1344.9
+    <strong>CShape           </strong>    165.03    165.03    165.03
+    <strong>GShape           </strong>     34214    5232.1    3741.5
+    <strong>JShape           </strong>    4477.2    4477.2    4477.2
+    <strong>JShape_2         </strong>     35166    3470.2    3772.8
+    <strong>Khamesh          </strong>    717.15    717.15    717.15
+    <strong>Line             </strong>     501.4     501.4     501.4
+    <strong>Multi_Models_1   </strong>    1641.8    1654.4    1654.4
+    <strong>Multi_Models_2   </strong>    1929.1    1927.8    1927.7
+    <strong>Multi_Models_3   </strong>     20390     10471     15708
+    <strong>Multi_Models_4   </strong>     23756    6161.9     12368
+    <strong>NShape           </strong>    4611.8    2855.5    2870.4
+    <strong>PShape           </strong>    773.74     102.7     102.7
+    <strong>RShape           </strong>    2915.7    2915.7    2915.7
+    <strong>Saeghe           </strong>    5265.8    5114.5    3557.4
+    <strong>Sharpc           </strong>    9749.1    2021.4    6468.1
+    <strong>Sine             </strong>    3183.6    3186.3    3180.6
+    <strong>Soft_Sine        </strong>      2713      2713      2713
+    <strong>Spoon            </strong>    1242.2    1241.7    1246.4
+    <strong>Sshape           </strong>     19318    8915.5     13117
+    <strong>Trapezoid        </strong>      1030      1030    1003.8
+    <strong>WShape           </strong>    9867.5    2676.8    2645.3
+    <strong>Zshape           </strong>    7525.8    8238.5      8722
+    <strong>OVERALL(mean,sum)</strong>    8068.7    3261.9      4003
+
+Correction Effort
+                             <strong>Sq</strong>           <strong>SOS</strong>         <strong>WSAQF</strong>   
+                         <strong>__________</strong>    <strong>_________</strong>    <strong>__________</strong>
+
+    <strong>Angle            </strong>             0            0             0
+    <strong>Bump             </strong>             0            0             0
+    <strong>CShape           </strong>             0            0             0
+    <strong>GShape           </strong>       0.89537      0.24138      0.044116
+    <strong>JShape           </strong>             0            0             0
+    <strong>JShape_2         </strong>       0.95058    0.0028611     0.0036243
+    <strong>Khamesh          </strong>             0            0             0
+    <strong>Line             </strong>             0            0             0
+    <strong>Multi_Models_1   </strong>     0.0022363            0     0.0011958
+    <strong>Multi_Models_2   </strong>      0.044266     0.084757      0.065133
+    <strong>Multi_Models_3   </strong>        0.7431      0.39462       0.51321
+    <strong>Multi_Models_4   </strong>       0.31373     0.028365      0.094778
+    <strong>NShape           </strong>       0.15515     0.015807      0.014251
+    <strong>PShape           </strong>       0.13318            0             0
+    <strong>RShape           </strong>             0            0             0
+    <strong>Saeghe           </strong>    4.4913e-05    0.0036172       0.12134
+    <strong>Sharpc           </strong>       0.68529    0.0040465       0.46383
+    <strong>Sine             </strong>      0.011254     0.043157     0.0018403
+    <strong>Soft_Sine        </strong>             0            0             0
+    <strong>Spoon            </strong>      0.040907     0.078893       0.11856
+    <strong>Sshape           </strong>        1.0889    0.0025029       0.30054
+    <strong>Trapezoid        </strong>             0            0       0.01904
+    <strong>WShape           </strong>       0.24746     0.013556      0.012368
+    <strong>Zshape           </strong>      0.059097    0.0046594    5.6445e-05
+    <strong>OVERALL(mean,sum)</strong>       0.22377     0.038259      0.073912
+
+Time to learn CLF
+                            <strong>Sq</strong>         <strong>SOS</strong>        <strong>WSAQF</strong>  
+                         <strong>________</strong>    <strong>________</strong>    <strong>________</strong>
+
+    <strong>Angle            </strong>      9.4188     0.17023     0.11822
+    <strong>Bump             </strong>    0.027473    0.063186    0.089107
+    <strong>CShape           </strong>     0.16633    0.061587    0.040925
+    <strong>GShape           </strong>     0.22111      1.8812      7.0803
+    <strong>JShape           </strong>    0.036585     0.25992     0.12687
+    <strong>JShape_2         </strong>     0.23828      4.9043      4.3365
+    <strong>Khamesh          </strong>    0.041582    0.069986    0.059551
+    <strong>Line             </strong>    0.016741     0.15083    0.069748
+    <strong>Multi_Models_1   </strong>      0.2273      13.781      12.907
+    <strong>Multi_Models_2   </strong>     0.17765     0.28841     0.13844
+    <strong>Multi_Models_3   </strong>     0.31956      2.7818      18.182
+    <strong>Multi_Models_4   </strong>      0.1891      5.2669      10.381
+    <strong>NShape           </strong>    0.092166      2.1241      1.7976
+    <strong>PShape           </strong>     0.15916      1.2916     0.95606
+    <strong>RShape           </strong>    0.023936    0.074543    0.059406
+    <strong>Saeghe           </strong>    0.048224    0.056314    0.089262
+    <strong>Sharpc           </strong>     0.18684     0.22857     0.31304
+    <strong>Sine             </strong>    0.013543    0.077076      0.0895
+    <strong>Soft_Sine        </strong>     0.01125     0.07362    0.057988
+    <strong>Spoon            </strong>    0.014694    0.064826     0.10989
+    <strong>Sshape           </strong>     0.10629      20.844      3.6468
+    <strong>Trapezoid        </strong>    0.014441    0.044026    0.071917
+    <strong>WShape           </strong>     0.17424      2.2755     0.72436
+    <strong>Zshape           </strong>     0.24972      3.5386      1.5758
+    <strong>OVERALL(mean,sum)</strong>     0.50729      2.5155      2.6259
+
