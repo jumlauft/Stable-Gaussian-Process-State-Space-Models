@@ -1,4 +1,5 @@
 This software is published under the original BSD License: 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Copyright (c) 2019, Jonas Umlauft, Chair of Information-oriented Control, 
     Technical University of Munich, Germany, https://www.itr.ei.tum.de/
