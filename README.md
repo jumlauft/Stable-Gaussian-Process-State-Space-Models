@@ -1,4 +1,5 @@
 The provided Matlab code accompanies the following work:
+
 @Unpublished{umlauft2019learning,
 author = {Umlauft, Jonas and and Hirche, Sandra},
 title  = {Learning Stochastically Stable Gaussian Process State-Space Models},
